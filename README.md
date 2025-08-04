@@ -1,4 +1,4 @@
-# Assignment 2 – Client-Server Application
+# Client-Server Application
 
 This application implements a **client-server system** where TCP clients (subscribers) can subscribe to topics published by UDP clients (publishers).
 
